@@ -11,8 +11,8 @@
 <body>
 	<h1>My ToDoList</h1>
 	<form action="addnewtodo" method="GET">
-		<label>Inserisci nuova ToDo:</label> <input type="text" name="toDo" />
-		<input type="submit" value="AGGIUNGI TODO" />
+		<label>Insert new ToDo:</label> <input type="text" name="toDo" />
+		<input type="submit" value="Add" />
 	</form>
 	
 	<ul>
